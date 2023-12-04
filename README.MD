@@ -73,4 +73,4 @@ Contribuições são bem-vindas! Se encontrar bugs, tiver sugestões ou quiser a
 
 ## Licença
 
-Este projeto é licenciado sob a MIT License - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto é licenciado sob a MIT License.
