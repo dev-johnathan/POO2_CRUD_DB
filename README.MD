@@ -1,8 +1,8 @@
-# Taverna App
+# Taverna App 🍻
 
 O Taverna App é uma aplicação Java simples para gerenciar quartos de uma taverna. A aplicação utiliza o padrão de projeto MVC, Java JDBC para a conexão com o banco de dados e apresenta uma interface gráfica intuitiva.
 
-## Configuração do Banco de Dados
+## Configuração do Banco de Dados 🛠️
 
 ### Pré-requisitos
 
@@ -33,7 +33,7 @@ private static final String USER = "seuUsuario";
 private static final String PASSWORD = "suaSenha";
 ```
 
-## Configuração do Projeto no NetBeans
+## Configuração do Projeto no NetBeans 🖥️
 
 ### Pré-requisitos
 
@@ -49,7 +49,7 @@ private static final String PASSWORD = "suaSenha";
    - No projeto, clique com o botão direito e vá para "Properties".
    - Em "Run", configure a "Main Class" para `main.Main`.
 
-## Execução do Projeto
+## Execução do Projeto 🚀
 
 1. **Compilação e Execução no NetBeans:**
    - Clique com o botão direito no projeto e escolha "Build" para compilar.
@@ -58,19 +58,19 @@ private static final String PASSWORD = "suaSenha";
 2. **Execução a partir do JAR:**
    - Se preferir executar a partir do JAR, navegue até o diretório `dist` e execute o arquivo JAR.
 
-## Funcionalidades
+## Funcionalidades 🎉
 
 - Adicionar, visualizar, atualizar e excluir quartos de uma taverna.
 - Interface gráfica intuitiva.
 
-## Contribuição
+## Contribuição 🤝
 
 Contribuições são bem-vindas! Se encontrar bugs, tiver sugestões ou quiser adicionar novos recursos, abra uma issue ou envie um pull request.
 
-## Autores
+## Autores 👨‍💻
 
 - Dev-Johnathan
 
-## Licença
+## Licença 📜
 
-Este projeto é licenciado sob a MIT License.
+Este projeto é licenciado sob a MIT License. 📄
